@@ -676,7 +676,7 @@ pencere.mainloop()
 
 ![](./imgs/messagebox.PNG)
 
-### 2.6. Geometry Manager
+### 2.6. Geometry Manager(!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 
 Bileşenlerin nerelere yerleştirileceği ve konumlandırılacağı üzerine neredeyse (sadece `pack()` kullanıldı) bir şey yapmadık.
 
